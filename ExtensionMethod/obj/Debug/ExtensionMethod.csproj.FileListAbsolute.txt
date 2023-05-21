@@ -1,0 +1,12 @@
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\ExtensionMethod\ExtensionMethod\bin\Debug\ExtensionMethod.exe.config
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\ExtensionMethod\ExtensionMethod\bin\Debug\ExtensionMethod.exe
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\ExtensionMethod\ExtensionMethod\bin\Debug\ExtensionMethod.pdb
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\ExtensionMethod\ExtensionMethod\obj\Debug\ExtensionMethod.csprojResolveAssemblyReference.cache
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\ExtensionMethod\ExtensionMethod\obj\Debug\ExtensionMethod.exe
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\ExtensionMethod\ExtensionMethod\obj\Debug\ExtensionMethod.pdb
+D:\class\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\ExtensionMethod\ExtensionMethod\bin\Debug\ExtensionMethod.exe.config
+D:\class\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\ExtensionMethod\ExtensionMethod\obj\Debug\ExtensionMethod.exe
+D:\class\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\ExtensionMethod\ExtensionMethod\obj\Debug\ExtensionMethod.pdb
+D:\class\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\ExtensionMethod\ExtensionMethod\obj\Debug\ExtensionMethod.csprojResolveAssemblyReference.cache
+D:\class\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\ExtensionMethod\ExtensionMethod\bin\Debug\ExtensionMethod.exe
+D:\class\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\ExtensionMethod\ExtensionMethod\bin\Debug\ExtensionMethod.pdb
